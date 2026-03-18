@@ -1,0 +1,30 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+/data/*
+!/data/.gitkeep
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+
+# Added exclusions for sensitive files and unnecessary data
+*.csv
+*.tsv
+*.data
+*.dat
+.env
+*.env
+*.sqlite3
+*.db
+*.pkl
+*.h5
+*.hdf5

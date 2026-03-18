@@ -1,0 +1,6 @@
+# Python dependencies
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
